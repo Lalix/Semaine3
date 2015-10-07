@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<head>
+<style>
+div {
+}
+
+#header {
+    font-family: Verdana;
+    font-size: 35px;
+    border: 1px solid #E67373;
+    width: 97.5%;
+    height: 60px;
+	background-color: #FF8080;
+	position: fixed;
+	z-index: 1;
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+a {
+    text-decoration: none;
+    color: #000000;
+}
+.left {
+    border: 1px dashed #FFFFCC;
+    width: 97.5%;
+    height: 60px;
+	background-color: #FFFFCC;
+	float: left;
+	position: relative;
+	margin: 100px, 50px, 50px, 100px;
+	width: 7%;
+	height: 660px;
+}
+.right {
+    font-family: Garamond;
+	position: relative;
+	float: right;
+	margin-top: 65px;
+	width: 91%;
+	height: 600px;
+	background-color: #C4C4C4;
+	margin-bottom: 5px;
+}
+#footer {
+    border: 1px solid #C4C4C4;
+    width: 97.5%;
+    height: 60px;
+	background-color: #FFFFCC;
+	clear: both;
+}
+#footer p {
+    font-family: Garamond;
+    position: relative;
+	padding-top: 15px;
+}
+</style>
+</head>
+	<body>
+	<div id="header">
+	<a href="mailto:clara.bougon@gmail.com">Clara Bougon</a>
+	</p>
+			
+	</div>
+	<div class="left"></div>
+	<div class="right">
+	
+			<h4>Experience</h4>
+			
+			<ul>
+				<li>Tutrice/ cours particulier.</li>
+				<li>Agent d’accueil à la billetterie du cinéma Galeries (Galerie de la Reine).</li>
+				<li>Assistante galériste en charge des relations publiques.</li>
+				<li>Animatrice polyvalente pour des séjours vacances et classes de découvertes.</li>
+			</ul>
+			
+			<h4>Skills</h4>
+			<p>Languages: French, English, Spanish.</p>
+			<p>Software: Microsoft Word, Excel, Powerpoint; CSS Photoshop, InDesign.</p>
+			<h4>Education</h4>
+			<ul>
+				<li>Master à l'Institut d’Étude Europénnes, ULB, grande distinction.</li>
+				<li>Bachelier en linguistique et littérature anglaise et espagnole, ULB, distinction. Mineure en sciences des religions et de la laïcité.</li>
+		        <li>Hypokhâgne, première année de Lettres Supérieures.</li>
+        		<li>Baccalauréat Littéraire, spécialité anglais, lycée européen Thérèse d'Avila, Lille.(Mention TB européenne).</li>
+		    </ul>
+
+	</div>
+	<div id="footer">
+	<p id="info">8 rue du Sceptre, 1050 Bruxelles. 0483081853.</p>
+	</div>
+	</body>
+</html>
